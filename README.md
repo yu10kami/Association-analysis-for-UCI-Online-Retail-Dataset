@@ -461,7 +461,7 @@ fig.show()
 
 
     
-![png](fig/utput_19_0.png)
+![png](fig/output_19_0.png)
     
 
 
